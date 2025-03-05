@@ -87,7 +87,7 @@ Net sales surged by 204.5% over three years, with efficient cost management main
 Significant sales growth in 2021 was observed with stable profit margins despite increased costs.
 
 #### Market-Specific Profit and Loss (P&L) Report
-![Market-Specific Profit and Loss (P&L) Report](https://github.com/jagadeesh917/Sales-Finance-analytics/blob/main/P%26L%20by%20Market.pdf)
+![Market-Specific Profit and Loss (P&L) Report](https://github.com/jagadeesh917/Sales-Finance-analytics/blob/main/P%26L%20by%20Market-images-0.pdf)
 
 *Insights:*  
 Japan and New Zealand showed the highest profit margins, while Germany exhibited lower margins.
