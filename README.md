@@ -75,7 +75,7 @@ The top ten products with significant sales increases, including the best-seller
 ### Financial Analysis Reports
 
 #### Yearly Profit and Loss (P&L) Report
-![Yearly Profit and Loss (P&L) Report](https://github.com/jagadeesh917/Sales-Finance-analytics/blob/main/P%26L%20by%20Fiscal%20Year.pdf)
+![Yearly Profit and Loss (P&L) Report](https://github.com/jagadeesh917/Sales-Finance-analytics/blob/main/P%26L%20by%20Fiscal%20Year-images.pdf)
 
 *Insights:*  
 Net sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
