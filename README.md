@@ -28,27 +28,25 @@ To develop an interactive business intelligence dashboard—**Sales and Finance 
 Revenue increased from $87.5 million in 2019 to $598.9 million in 2021—a growth of 304.5%.
 
 #### Market Performance vs. Sales Targets Comparison
-![Market Performance vs. Sales Targets Comparison](https://github.com/Thiruvariyamuthu/Excel-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20vs.%20Sales%20Targets%20Comparison.pdf)
-
+![Market Performance vs. Sales Targets Comparison](https://github.com/jagadeesh917/Sales-Finance-analytics/blob/main/Market%20Performance%20vs.%20Sales%20Targets%20Comparison.pdf)
 *Insights:*  
 Some markets exceeded their sales targets, while others fell short, providing valuable insights for future strategies.
 
 #### Top 10 Products with Sales Increase
-![Top 10 Products with Sales Increase](https://github.com/Thiruvariyamuthu/Excel-Sales-and-Finance-Analytics/blob/main/Top%2010%20Products.pdf)
+![Top 10 Products with Sales Increase](https://github.com/jagadeesh917/Sales-Finance-analytics/blob/main/Top%2010%20Products.pdf)
 
 *Insights:*  
 The top ten products with significant sales increases, including the best-seller "AQ Electron 4 3600 Desktop processor" and "AQ Pen Drive DRC".
 
 #### Division Sales Report
-![Division Sales Report](https://github.com/Thiruvariyamuthu/Excel-Sales-and-Finance-Analytics/blob/main/Division%20level%20Report.pdf)
-
+![Division Sales Report](https://github.com/jagadeesh917/Sales-Finance-analytics/blob/main/Division%20level%20Report.pdf)
 *Insights:*  
 - PC sales increased from $40.1 million in 2020 to $165.8 million in 2021.
 - Accessories and peripherals grew from $105.2 million to $338.4 million (321.5% increase).
 - Networking and storage products surged from $51.4 million to $94.7 million (184.4% increase).
 
 #### Top and Bottom 5 Sold Products
-![Top and Bottom 5 Sold Products](https://github.com/Thiruvariyamuthu/Excel-Sales-and-Finance-Analytics/blob/main/Top%20and%20Bottom%205%20Sold%20%20products%20-%20QTY.pdf)
+![Top and Bottom 5 Sold Products](https://github.com/jagadeesh917/Sales-Finance-analytics/blob/main/Top%20and%20Bottom%205%20Sold%20%20products%20-%20QTY.pdf)
 
 *Insights:*  
 - **Top 5 Products by Quantity:** Highlighting best-performing products with "AQ Master wired x1 Ms" leading.  
