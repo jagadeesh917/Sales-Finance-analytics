@@ -11,7 +11,7 @@ To develop an interactive business intelligence dashboard—**Sales and Finance 
 ## Sales Analysis
 
 ### Objectives
-- **Customer Net Sales Performance Report:** Overview of revenue generated from customers.
+- **Customer Net Sales Performance Report:** Overview of revenue generated from customers.    
 - **Market Performance vs. Sales Targets Comparison:** Analysis of sales efforts against goals and market conditions.
 - **Top 10 Products with Sales Increase:** Identify which products had the biggest increase in sales from 2020 to 2021.
 - **Division Sales Report:** Create a report showing total revenue in 2020 and 2021 and the growth in sales.
@@ -53,7 +53,7 @@ The top ten products with significant sales increases, including the best-seller
 - **Bottom 5 Products by Quantity:** Identifying underperforming products to consider for adjustments.
 
 #### New Products in 2021
-![New Products in 2021](https://github.com/jagadeesh917/Sales-Finance-analytics/blob/main/New%20Products%202021.pdf
+![New Products in 2021](https://github.com/jagadeesh917/Sales-Finance-analytics/blob/main/New%20Products%202021.pdf)
 *Insights:*  
 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
 
