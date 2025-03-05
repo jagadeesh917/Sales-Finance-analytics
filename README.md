@@ -22,7 +22,7 @@ To develop an interactive business intelligence dashboard—**Sales and Finance 
 ### Sales Analysis Reports
 
 #### Customer Net Sales Performance Report
-![Customer Net Sales Performance Report](https://github.com/Thiruvariyamuthu/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf)
+![Customer Net Sales Performance Report](https://github.com/jagadeesh917/Sales-Finance-analytics/blob/main/Customer%20Net%20Sales%20Performance%20Report.pdf)
 
 *Insights:*  
 Revenue increased from $87.5 million in 2019 to $598.9 million in 2021—a growth of 304.5%.
