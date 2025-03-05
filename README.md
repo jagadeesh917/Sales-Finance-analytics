@@ -53,13 +53,12 @@ The top ten products with significant sales increases, including the best-seller
 - **Bottom 5 Products by Quantity:** Identifying underperforming products to consider for adjustments.
 
 #### New Products in 2021
-![New Products in 2021](https://github.com/Thiruvariyamuthu/Excel-Sales-and-Finance-Analytics/blob/main/New%20Products%202021.pdf)
-
+![New Products in 2021](https://github.com/jagadeesh917/Sales-Finance-analytics/blob/main/New%20Products%202021.pdf
 *Insights:*  
 16 new products were added in 2021, with "AQ Qwerty" performing exceptionally well.
 
 #### Top 5 Sales Countries in 2021
-![Top 5 Sales Countries in 2021](https://github.com/Thiruvariyamuthu/Excel-Sales-and-Finance-Analytics/blob/main/Top%205%20countries.pdf)
+![Top 5 Sales Countries in 2021](https://github.com/jagadeesh917/Sales-Finance-analytics/blob/main/Top%205%20countries.pdf)
 
 *Insights:*  
 - India led with $161.3 million in sales.
@@ -76,26 +75,25 @@ The top ten products with significant sales increases, including the best-seller
 ### Financial Analysis Reports
 
 #### Yearly Profit and Loss (P&L) Report
-![Yearly Profit and Loss (P&L) Report](https://github.com/Thiruvariyamuthu/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20by%20Fiscal%20Year.pdf)
+![Yearly Profit and Loss (P&L) Report](https://github.com/jagadeesh917/Sales-Finance-analytics/blob/main/P%26L%20by%20Fiscal%20Year.pdf)
 
 *Insights:*  
 Net sales surged by 204.5% over three years, with efficient cost management maintaining a strong gross margin.
 
 #### Quarterly Profit and Loss (P&L) Comparison
-![Quarterly Profit and Loss (P&L) Comparison](https://github.com/Thiruvariyamuthu/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20by%20Fiscal%20Month.pdf)
+![Quarterly Profit and Loss (P&L) Comparison](https://github.com/jagadeesh917/Sales-Finance-analytics/blob/main/P%26L%20by%20Fiscal%20Month.pdf)
 
 *Insights:*  
 Significant sales growth in 2021 was observed with stable profit margins despite increased costs.
 
 #### Market-Specific Profit and Loss (P&L) Report
-![Market-Specific Profit and Loss (P&L) Report](https://github.com/Thiruvariyamuthu/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20by%20Market.pdf)
+![Market-Specific Profit and Loss (P&L) Report](https://github.com/jagadeesh917/Sales-Finance-analytics/blob/main/P%26L%20by%20Market.pdf)
 
 *Insights:*  
 Japan and New Zealand showed the highest profit margins, while Germany exhibited lower margins.
 
 #### Quarterly Gross Margin Percentage (GM%) by Location
-![Quarterly Gross Margin Percentage (GM%) by Location](https://github.com/Thiruvariyamuthu/Excel-Sales-and-Finance-Analytics/blob/main/GM%20%25%20by%20Quarters%20(Sub_Zone).pdf)
-
+![Quarterly Gross Margin Percentage (GM%) by Location](https://github.com/jagadeesh917/Sales-Finance-analytics/blob/main/GM%20%25%20by%20Quarters%20(Sub_Zone).pdf)
 *Insights:*  
 Variations in profit margins by region provided guidance for performance assessments and strategic decisions.
 
